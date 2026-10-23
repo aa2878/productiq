@@ -118,7 +118,7 @@ Ensure you have Python 3.10+ installed on your local machine (macOS / Linux / Wi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/productiq/productiq.git
+   git clone https://github.com/aa2878/productiq.git
    cd productiq
    ```
 
