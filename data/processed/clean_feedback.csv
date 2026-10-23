@@ -1,0 +1,6 @@
+feedback_id,product,source,rating,feedback,date
+txt_1,TaskFlow,Direct Input,,The mobile app takes too long to load.,
+txt_2,TaskFlow,Direct Input,,Scheduling appointments is confusing.,
+txt_3,TaskFlow,Direct Input,,The scheduling interface is difficult to navigate.,
+txt_4,TaskFlow,Direct Input,,The app crashes whenever I open the calendar.,
+txt_5,TaskFlow,Direct Input,,Calendar keeps crashing on my phone.,

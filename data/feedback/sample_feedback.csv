@@ -1,0 +1,11 @@
+feedback_id,product,source,rating,feedback,date
+1,SampleApp,App Store,2,"The mobile app takes too long to load.",2026-01-05
+2,SampleApp,App Store,1,"Scheduling appointments is confusing.",2026-01-08
+3,SampleApp,Support Ticket,2,"The scheduling interface is difficult to navigate.",2026-01-10
+4,SampleApp,App Store,4,"I like the design but notifications arrive late.",2026-01-12
+5,SampleApp,Support Ticket,2,"Notifications are delayed by several minutes.",2026-01-15
+6,SampleApp,App Store,1,"The app crashes whenever I open the calendar.",2026-01-17
+7,SampleApp,App Store,2,"Calendar keeps crashing on my phone.",2026-01-19
+8,SampleApp,Support Ticket,3,"I wish I could customize my reports.",2026-01-22
+9,SampleApp,App Store,2,"Reporting options are too limited.",2026-01-25
+10,SampleApp,App Store,5,"The app is easy to use and looks great.",2026-01-28

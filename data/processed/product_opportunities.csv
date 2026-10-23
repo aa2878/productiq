@@ -1,0 +1,4 @@
+cluster_id,problem,representative_feedback,complaint_count,prevalence_pct,average_rating,rating_coverage_pct,dissatisfaction_score,priority_score,scoring_methodology
+0,Confusing Appointment Scheduling,Scheduling appointments is confusing.,2,40.0,,0.0,,40.0,Prevalence Only (Unrated)
+1,Calendar Reliability Issues,The app crashes whenever I open the calendar.,2,40.0,,0.0,,40.0,Prevalence Only (Unrated)
+2,Slow Application Performance,The mobile app takes too long to load.,1,20.0,,0.0,,20.0,Prevalence Only (Unrated)
